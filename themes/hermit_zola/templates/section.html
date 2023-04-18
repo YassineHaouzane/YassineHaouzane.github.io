@@ -52,6 +52,9 @@
 
 <main class="site-main section-inner thin animated fadeIn faster">
   <h1>{{ section.title }}</h1>
+  {% if section.description %}
+    <h3>{{ section.description }}</h2>
+  {% endif %}
   {% for year, pages in section.pages | reverse | group_by(attribute="year") %}
   <div class="posts-group">
     <div class="post-year">{{ year }}</div>
