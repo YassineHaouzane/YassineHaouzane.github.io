@@ -2,10 +2,10 @@
 base_url = "https://yassinehaouzane.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+compile_sass = false 
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false 
 
 theme = "hermit_zola"
 title = "Yassine Haouzane"
@@ -27,9 +27,9 @@ hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "github", link = "https://github.com" },
-    { name = "email", link = "mailto:author@domain.com" },
-    { name = "linkedin", link = "dummylinkedin" }
+    { name = "github", link = "https://github.com/YassineHaouzane" },
+    { name = "email", link = "mailto:haouzaneyassine@gmail.com" },
+    { name = "linkedin", link = "https://www.linkedin.com/in/yassine-haouzane-733782159/" }
 ]
 
 
