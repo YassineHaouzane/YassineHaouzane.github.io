@@ -8,6 +8,6 @@ date=2023-03-15
 This fullstack app serves data about the video game Persona 5 Royal especially about fusions.
 In this video-game you can fuse 2 personas (which are like pokemons) to get a stronger persona.
 
-[The backend](https://github.com/YassineHaouzane/p5r_calculator) has been implemented in Rust to compute fusions, [the frontend](https://github.com/YassineHaouzane/p5r_calculator) has been implemented with VueJs.
+[The backend](https://github.com/YassineHaouzane/p5r_calculator) has been implemented in Rust to compute fusions, [the frontend](https://github.com/YassineHaouzane/p5r_calculator_front) has been implemented with VueJs.
 
 
