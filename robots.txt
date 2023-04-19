@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://yassinehaouzane.github.io/sitemap.xml
