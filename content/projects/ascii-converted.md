@@ -1,6 +1,8 @@
 +++
-title = "ASCII image converter"
+title="ASCII image converter"
 date=2022-02-05
+[extra]
+external_link="https://github.com/YassineHaouzane/ASCII-Bot"
 +++
 
 [An image converter](https://github.com/YassineHaouzane/ASCII-Bot) that converts an image to a text representation.

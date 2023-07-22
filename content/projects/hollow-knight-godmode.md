@@ -1,6 +1,8 @@
 +++
 title = "Hollow Knight God mode"
 date=2023-02-02
+[extra]
+external_link="https://github.com/YassineHaouzane/HKGodMode"
 +++
 
 [HKGodMode](https://github.com/YassineHaouzane/HKGodMode) is a "God mode" written in C# for the game Hollow knight.
