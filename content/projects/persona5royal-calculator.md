@@ -3,6 +3,7 @@ title = "Persona 5 Royal calculator"
 date=2023-03-15
 [extra]
 external_link="https://github.com/YassineHaouzane/p5r_calculator"
+technology=["rust.png", "vue.png"]
 +++
 
 [Persona 5 royal calculator](https://github.com/YassineHaouzane/p5r_calculator) is a fullstack app inspired from this [website](https://chinhodado.github.io/persona5_calculator/indexRoyal.html#/list). 

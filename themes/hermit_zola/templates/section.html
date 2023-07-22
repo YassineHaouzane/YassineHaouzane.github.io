@@ -63,6 +63,13 @@
       <li class="post-item">
         <a href="{{ page.extra["external_link"]}}">
           <span class="post-title">{{ page.title }}</span>
+          {% if page.extra["technology"] %}
+              <div>
+              {% for tech in page.extra["technology"] %}
+                <img src="img/{{ tech }}" alt="{{ tech }}">
+              {% endfor %}
+              </div>
+          {% endif %}
         </a>
       </li>
       {% endfor %}

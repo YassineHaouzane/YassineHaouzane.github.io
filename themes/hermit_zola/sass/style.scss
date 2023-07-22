@@ -431,8 +431,12 @@ p.img-404 {
     a {
       display: flex;
       justify-content: space-between;
-      align-items: baseline;
+      align-items: center;
       padding: 12px 0;
+
+      img {
+        max-height: 24px;
+      }
     }
   }
 
