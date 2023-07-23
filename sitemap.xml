@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://yassinehaouzane.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/ascii-converted/</loc>
+        <lastmod>2022-02-05</lastmod>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/chip8/</loc>
+        <lastmod>2023-05-15</lastmod>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/fileserver/</loc>
+        <lastmod>2023-06-15</lastmod>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/hollow-knight-godmode/</loc>
+        <lastmod>2023-02-02</lastmod>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/lambda-calculus-interpreter/</loc>
+        <lastmod>2022-11-11</lastmod>
+    </url>
+    <url>
+        <loc>https://yassinehaouzane.github.io/projects/persona5royal-calculator/</loc>
+        <lastmod>2023-03-15</lastmod>
+    </url>
+</urlset>
